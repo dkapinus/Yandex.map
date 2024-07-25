@@ -1,0 +1,27 @@
+.map {
+  max-width: 980px;
+  height: 460px;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.autocomplete {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.textField {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  height: 60px;
+  max-width: 560px;
+  width: 100%;
+}
+
+.submitButton {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
